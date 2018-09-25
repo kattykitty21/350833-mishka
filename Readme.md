@@ -1,7 +1,7 @@
 # Личный проект «Мишка» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Екатерина Кочеткова](https://up.htmlacademy.ru/adaptive/15/user/350833).
-* Наставник: `Кекс`.
+* Наставник: `Кекс`(https://up.htmlacademy.ru/adaptive/15/user/336357).
 
 ---
 
